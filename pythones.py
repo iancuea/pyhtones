@@ -83,5 +83,8 @@ sns.violinplot(data=melted, x='Tipo', y='Puntaje', ax=axes[2,1], hue='Tipo', pal
 axes[2,1].set_title('Distribución de Puntajes: NEM vs Ranking', fontsize=14)
 
 plt.tight_layout()
-plt.savefig('graficos_VIP.png', dpi=150)
+carpeta_salida = 'resultados'
+os.makedirs(carpeta_salida, exist_ok=True) # Crea la carpeta mágicamente si no está
+ruta_guardado = os.path.join(carpeta_salida, 'graficos_VIP.png')
+plt.savefig(ruta_guardado, dpi=150)
 print("🚀 ¡GRÁFICO VIP CREADO! Revisa el archivo 'graficos_VIP.png'")

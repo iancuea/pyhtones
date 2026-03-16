@@ -10,4 +10,4 @@ env/
 __pycache__/
 
 # (Opcional) Ignorar las imágenes generadas si no quieres subirlas
-# *.png
+*.png
