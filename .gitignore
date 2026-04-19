@@ -2,8 +2,11 @@
 *.csv
 *.xlsx
 
+
 # Ignorar el entorno virtual (¡MUY IMPORTANTE!)
 .venv/
+
+# Ignorar el entorno virtual (¡MUY IMPORTANTE!!¡!¡!¡¡!)
 venv/
 env/
 
@@ -11,5 +14,5 @@ env/
 __pycache__/
 .ipynb_checkpoints/
 
-# (Opcional) Ignorar las imágenes generadas si no quieres subirlas
+# (Opcional) Ignorar las imagenes generadas
 *.png
