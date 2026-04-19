@@ -2,12 +2,12 @@
 *.csv
 *.xlsx
 
-# Ignorar el entorno virtual (¡MUY IMPORTANTE!)
+# Ignorar el entorno virtual (¡MUY IMPORTANTE!!¡!¡!¡¡!)
 venv/
 env/
 
 # Ignorar archivos temporales de Python
 __pycache__/
 
-# (Opcional) Ignorar las imágenes generadas si no quieres subirlas
+# (Opcional) Ignorar las imagenes generadas
 *.png
