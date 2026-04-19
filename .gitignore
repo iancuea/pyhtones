@@ -3,11 +3,13 @@
 *.xlsx
 
 # Ignorar el entorno virtual (¡MUY IMPORTANTE!)
+.venv/
 venv/
 env/
 
 # Ignorar archivos temporales de Python
 __pycache__/
+.ipynb_checkpoints/
 
 # (Opcional) Ignorar las imágenes generadas si no quieres subirlas
 *.png
