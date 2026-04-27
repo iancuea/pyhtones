@@ -11,7 +11,7 @@ def scraper_definitivo_numerico():
     driver.maximize_window()
 
     try:
-        print("🌍 Entrando a la página...")
+        print("Entrando a la página...")
         driver.get(url)
         time.sleep(5)
 
@@ -19,16 +19,16 @@ def scraper_definitivo_numerico():
         xpath_select = "//select[option[contains(text(), 'Universidad')]]"
         tipo_inst = driver.find_element(By.XPATH, xpath_select)
         Select(tipo_inst).select_by_visible_text("Universidad")
-        print("✅ 'Universidad' seleccionado.")
+        print("'Universidad' seleccionado.")
         time.sleep(2)
 
         # 2. CLICK EN BUSCAR
-        print("🚀 Presionando Buscar...")
+        print(" Presionando Buscar...")
         xpath_btn = "//button[contains(., 'Buscar')] | //input[contains(@value, 'Buscar')]"
         btn_buscar = driver.find_element(By.XPATH, xpath_btn)
         driver.execute_script("arguments[0].click();", btn_buscar)
 
-        print("⏳ Esperando 15 segundos para la carga inicial...")
+        print(" Esperando 15 segundos para la carga inicial...")
         time.sleep(15)
 
         datos_acumulados = []
@@ -36,18 +36,17 @@ def scraper_definitivo_numerico():
 
         # --- BUCLE INFINITO DE PAGINACIÓN ---
         while True:
-            print(f"📸 Procesando página {pag}...")
+            print(f"Procesando página {pag}...")
             
             html = driver.page_source
             try:
-                # --- CORRECCIÓN DEL WARNING DE PANDAS ---
                 # Usamos io.StringIO(html) para que la consola esté limpia
                 tablas = pd.read_html(io.StringIO(html))
                 df_temp = max(tablas, key=len) 
                 datos_acumulados.append(df_temp)
-                print(f"✔️ {len(df_temp)} filas capturadas de la página {pag}.")
+                print(f" {len(df_temp)} filas capturadas de la página {pag}.")
             except Exception as e:
-                print(f"⚠️ Error leyendo tabla en pág {pag}: {e}")
+                print(f"Error leyendo tabla en pág {pag}: {e}")
                 break
 
             # 4. PASAR A LA SIGUIENTE PÁGINA (Buscando el número exacto)
@@ -61,16 +60,16 @@ def scraper_definitivo_numerico():
                 pag += 1
                 
                 # Pausa para que la nueva página cargue antes de sacar la foto
-                print(f"➡️ Saltando a la página {pag}...")
+                print(f" Saltando a la página {pag}...")
                 time.sleep(4) 
             except:
                 # Si falla, es porque llegamos a la 119 y ya no hay más números
-                print(f"🏁 No se encontró el número {siguiente_pag}. Fin del recorrido.")
+                print(f" No se encontró el número {siguiente_pag}. Fin del recorrido.")
                 break
 
         # 5. PROCESAMIENTO FINAL CON PANDAS
         if datos_acumulados:
-            print("\n⚙️ Juntando todas las páginas...")
+            print("\n Juntando todas las páginas...")
             df_total = pd.concat(datos_acumulados, ignore_index=True)
             
             # Filtramos solo ingenierías
@@ -79,9 +78,9 @@ def scraper_definitivo_numerico():
             
             # Guardamos el CSV maestro
             df_final.to_csv('todas_las_ingenierias_chile.csv', index=False, sep=';', encoding='utf-16')
-            print(f"🎉 ¡MISIÓN COMPLETA! Se guardaron {len(df_final)} ingenierías de todo Chile.")
+            print(f" ¡MISIÓN COMPLETA! Se guardaron {len(df_final)} ingenierías de todo Chile.")
         else:
-            print("⚠️ No se recolectaron datos.")
+            print(" No se recolectaron datos.")
 
     except Exception as e:
         print(f"❌ Error crítico: {e}")
