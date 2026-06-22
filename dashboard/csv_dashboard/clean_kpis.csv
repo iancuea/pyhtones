@@ -1,0 +1,307 @@
+Institución;Carrera;Retención de 1er año;Empleabilidad al 1er año;Empleabilidad al 2º Año;Duración Real (semestres);Ingreso promedio al 4° año
+UNIVERSIDAD FINIS TERRAE;Ingeniería Civil Industrial;88,6%;82,8%;92,5%;134;s/i
+UNIVERSIDAD FINIS TERRAE;Ingeniería Comercial;75,1%;67,3%;84,2%;116;De $1 millón 900 mil a $2 millones
+UNIVERSIDAD FINIS TERRAE;Ingeniería en Información y Control de Gestión;81,0%;75,4%;90,0%;100;s/i
+UNIVERSIDAD DIEGO PORTALES;Ingeniería en Administración de Empresas;72,2%;83,2%;83,5%;116;De $1 millón 700 mil a $1 millón 800 mil
+UNIVERSIDAD DIEGO PORTALES;Ingeniería Civil en Informática y Telecomunicaciones;91,3%;92,6%;96,4%;136;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD DIEGO PORTALES;Ingeniería Civil en Obras Civiles;83,7%;83,8%;87,5%;144;De $1 millón 900 mil a $2 millones
+UNIVERSIDAD DIEGO PORTALES;Ingeniería Civil Industrial;94,2%;89,7%;94,0%;135;De $2 millones 200 mil a $2 millones 300 mil
+UNIVERSIDAD DIEGO PORTALES;Ingeniería Comercial;90,2%;81,4%;88,5%;126;De $2 millones a $2 millones 100 mil
+UNIVERSIDAD DIEGO PORTALES;Ingeniería en Informática y Gestión;82,8%;90,0%;s/i;s/i;s/i
+UNIVERSIDAD DIEGO PORTALES;Ingeniería en Control de Gestión;76,9%;88,4%;94,6%;119;De $1 millón 800 mil a $1 millón 900 mil
+UNIVERSIDAD DIEGO PORTALES;Ingeniería en Industria y Logística;s/i;88,9%;85,7%;s/i;s/i
+UNIVERSIDAD CENTRAL DE CHILE;Ingeniería de Ejecución en Administración de Negocios, de Empresas y de Agronegocios;87,7%;69,0%;82,4%;s/i;De $1 millón 400 mil a $1 millón 500 mil
+UNIVERSIDAD CENTRAL DE CHILE;Ingeniería Civil Industrial;84,5%;87,3%;90,0%;133;De $2 millones 200 mil a $2 millones 300 mil
+UNIVERSIDAD CENTRAL DE CHILE;Ingeniería Comercial;85,2%;83,1%;86,9%;131;De $1 millón 800 mil a $1 millón 900 mil
+UNIVERSIDAD CENTRAL DE CHILE;Ingeniería en Construcción;s/i;78,6%;86,5%;s/i;De $1 millón 500 mil a $1 millón 600 mil
+UNIVERSIDAD MAYOR;Ingeniería en Administración e Ingeniería en Administración de Empresas;76,5%;78,5%;80,4%;105;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD MAYOR;Ingeniería Civil en Computación e Informática;95,7%;83,3%;80,5%;s/i;De $2 millones 100 mil a $2 millones 200 mil
+UNIVERSIDAD MAYOR;Ingeniería Civil Industrial;92,3%;84,0%;89,5%;146;De $2 millones 100 mil a $2 millones 200 mil
+UNIVERSIDAD MAYOR;Ingeniería Comercial;82,9%;74,9%;82,3%;121;De $1 millón 700 mil a $1 millón 800 mil
+UNIVERSIDAD MAYOR;Ingeniería en Construcción;88,9%;62,2%;s/i;161;s/i
+UNIVERSIDAD MAYOR;Ingeniería en Prevención de Riesgo;s/i;97,6%;s/i;s/i;s/i
+UNIVERSIDAD SANTO TOMAS;Ingeniería Civil Industrial;86,4%;88,1%;92,3%;s/i;De $1 millón 900 mil a $2 millones
+UNIVERSIDAD SANTO TOMAS;Ingeniería Comercial;83,2%;71,3%;80,2%;128;De $1 millón 400 mil a $1 millón 500 mil
+UNIVERSIDAD SANTO TOMAS;Ingeniería en Control de Gestión;76,7%;93,8%;87,8%;s/i;s/i
+UNIVERSIDAD DE LAS AMERICAS;Ingeniería de Ejecución en Administración de Empresas;44,8%;70,0%;75,8%;85;De $1 millón 400 mil a $1 millón 500 mil
+UNIVERSIDAD DE LAS AMERICAS;Ingeniería Civil Industrial;93,6%;90,7%;95,1%;s/i;s/i
+UNIVERSIDAD DE LAS AMERICAS;Ingeniería Comercial;76,2%;71,3%;85,2%;113;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD DE LAS AMERICAS;Ingeniería de Ejecución en Informática;76,8%;97,4%;86,1%;106;s/i
+UNIVERSIDAD DE LAS AMERICAS;Ingeniería en Minas;s/i;70,0%;67,7%;120;De $1 millón 700 mil a $1 millón 800 mil
+UNIVERSIDAD DE LAS AMERICAS;Ingeniería de Ejecución Industrial;42,1%;89,4%;s/i;s/i;s/i
+UNIVERSIDAD ANDRES BELLO;Ingeniería en Administración de Empresas;84,0%;74,6%;81,9%;93;De $1 millón 400 mil a $1 millón 500 mil
+UNIVERSIDAD ANDRES BELLO;Ingeniería en Turismo y Hotelería, Ingeniería en Administración Hotelera Internacional y Administración en Ecoturismo;77,2%;46,0%;55,3%;104;De $1 millón a $1 millón 100 mil
+UNIVERSIDAD ANDRES BELLO;Ingeniería Civil Informática;84,3%;80,5%;90,1%;123;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD ANDRES BELLO;Ingeniería Civil en Minas;83,3%;62,7%;82,0%;141;De $2 millones 100 mil a $2 millones 200 mil
+UNIVERSIDAD ANDRES BELLO;Ingeniería Civil Industrial;87,5%;83,4%;91,5%;117;De $2 millones a $2 millones 100 mil
+UNIVERSIDAD ANDRES BELLO;Ingeniería Civil en Metalurgia;s/i;72,5%;80,2%;s/i;De $2 millones 100 mil a $2 millones 200 mil
+UNIVERSIDAD ANDRES BELLO;Ingeniería Civil;84,4%;75,4%;85,5%;152;De $2 millones a $2 millones 100 mil
+UNIVERSIDAD ANDRES BELLO;Ingeniería Comercial;78,4%;74,7%;84,1%;121;De $1 millón 900 mil a $2 millones
+UNIVERSIDAD ANDRES BELLO;Ingeniería en Automatización y Robótica;87,7%;75,2%;81,4%;105;s/i
+UNIVERSIDAD ANDRES BELLO;Ingeniería en Biotecnología;70,2%;56,7%;62,0%;120;De $1 millón 300 mil a $1 millón 400 mil
+UNIVERSIDAD ANDRES BELLO;Ingeniería en Computación e Informática y de Gestión Informática;81,9%;87,0%;89,4%;107;De $2 millones 400 mil a $2 millones 500 mil
+UNIVERSIDAD ANDRES BELLO;Ingeniería en Construcción;77,1%;68,3%;80,5%;123;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD ANDRES BELLO;Ingeniería en Información y Control de Gestión;s/i;100,0%;s/i;s/i;s/i
+UNIVERSIDAD ANDRES BELLO;Ingeniería Ambiental;s/i;67,9%;85,9%;129;De $1 millón 400 mil a $1 millón 500 mil
+UNIVERSIDAD ANDRES BELLO;Ingeniería Industrial;62,2%;88,2%;89,6%;106;De $1 millón 900 mil a $2 millones
+UNIVERSIDAD ANDRES BELLO;Ingeniero en Marina Mercante y Transporte Marítimo;86,6%;78,3%;90,1%;124;De $2 millones 400 mil a $2 millones 500 mil
+UNIVERSIDAD DE VIÑA DEL MAR;Ingeniería Comercial;73,3%;65,7%;76,9%;118;De $1 millón 300 mil a $1 millón 400 mil
+UNIVERSIDAD DE VIÑA DEL MAR;Ingeniería en Gestión de Negocios Internacionales;s/i;57,1%;60,5%;s/i;s/i
+UNIVERSIDAD ADOLFO IBAÑEZ;Ingeniería Civil Informática;s/i;84,7%;94,9%;s/i;s/i
+UNIVERSIDAD ADOLFO IBAÑEZ;Ingeniería Civil en Energía y Medio Ambiente;s/i;79,7%;82,8%;s/i;s/i
+UNIVERSIDAD ADOLFO IBAÑEZ;Ingeniería Civil Industrial;89,0%;90,0%;94,4%;s/i;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD ADOLFO IBAÑEZ;Ingeniería Civil;85,8%;88,3%;87,4%;s/i;De $2 millones a $2 millones 100 mil
+UNIVERSIDAD ADOLFO IBAÑEZ;Ingeniería Comercial;91,3%;88,4%;92,4%;122;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD DE ARTES, CIENCIAS Y COMUNICACION - UNIACC;Ingeniería Comercial;43,2%;89,7%;92,3%;122;s/i
+UNIVERSIDAD AUTONOMA DE CHILE;Ingeniería en Administración;94,3%;69,4%;75,4%;s/i;s/i
+UNIVERSIDAD AUTONOMA DE CHILE;Contador Público Auditor, y Auditoría e Ingeniería en Control de Gestión;s/i;76,5%;86,0%;108;De $1 millón 300 mil a $1 millón 400 mil
+UNIVERSIDAD AUTONOMA DE CHILE;Ingeniería Civil Industrial;81,9%;71,8%;78,2%;129;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD AUTONOMA DE CHILE;Ingeniería Comercial;83,6%;70,3%;79,8%;122;De $1 millón 400 mil a $1 millón 500 mil
+UNIVERSIDAD AUTONOMA DE CHILE;Ingeniería en Construcción;83,9%;71,5%;75,0%;145;De $1 millón 300 mil a $1 millón 400 mil
+UNIVERSIDAD DE LOS ANDES;Ingeniería Civil Eléctrica;s/i;90,4%;98,2%;s/i;s/i
+UNIVERSIDAD DE LOS ANDES;Ingeniería Civil en Obras Civiles;s/i;88,8%;91,6%;s/i;De $2 millones 300 mil a $2 millones 400 mil
+UNIVERSIDAD DE LOS ANDES;Ingeniería Civil Industrial;s/i;94,2%;97,0%;s/i;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD DE LOS ANDES;Ingeniería Comercial;89,0%;82,7%;95,5%;116;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD ADVENTISTA DE CHILE;Ingeniería Comercial;89,3%;59,5%;s/i;s/i;s/i
+UNIVERSIDAD SAN SEBASTIAN;Ingeniería en Administración de Empresas;s/i;83,9%;82,9%;s/i;De $1 millón 500 mil a $1 millón 600 mil
+UNIVERSIDAD SAN SEBASTIAN;Ingeniería en Expediciones y Ecoturismo;88,6%;44,0%;51,9%;103;s/i
+UNIVERSIDAD SAN SEBASTIAN;Ingeniería Civil Informática;76,7%;77,8%;86,5%;s/i;s/i
+UNIVERSIDAD SAN SEBASTIAN;Ingeniería Civil en Minas;75,0%;69,2%;71,9%;121;s/i
+UNIVERSIDAD SAN SEBASTIAN;Ingeniería Civil Industrial;84,9%;82,1%;84,5%;125;De $1 millón 800 mil a $1 millón 900 mil
+UNIVERSIDAD SAN SEBASTIAN;Ingeniería Civil;82,0%;76,5%;81,2%;148;De $1 millón 900 mil a $2 millones
+UNIVERSIDAD SAN SEBASTIAN;Ingeniería Comercial;77,6%;70,0%;80,7%;124;De $1 millón 500 mil a $1 millón 600 mil
+UNIVERSIDAD SAN SEBASTIAN;Ingeniería en Energía y Sustentabilidad Ambiental;s/i;70,7%;s/i;122;s/i
+UNIVERSIDAD SAN SEBASTIAN;Ingeniería Industrial;s/i;87,6%;89,4%;s/i;De $1 millón 900 mil a $2 millones
+UNIVERSIDAD CATOLICA CARDENAL RAUL SILVA HENRIQUEZ;Ingeniería Comercial;69,5%;74,4%;82,3%;128;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD DEL DESARROLLO;Ingeniería en Ejecución en Administración;s/i;63,6%;76,5%;s/i;s/i
+UNIVERSIDAD DEL DESARROLLO;Ingeniería Civil en Obras Civiles;s/i;85,1%;92,7%;s/i;s/i
+UNIVERSIDAD DEL DESARROLLO;Ingeniería Civil Industrial;94,9%;89,7%;93,2%;129;De $2 millones 300 mil a $2 millones 400 mil
+UNIVERSIDAD DEL DESARROLLO;Ingeniería Comercial;90,3%;86,4%;89,8%;123;De $2 millones 200 mil a $2 millones 300 mil
+UNIVERSIDAD DE ACONCAGUA;Ingeniería en Minas;s/i;81,0%;77,8%;s/i;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD BERNARDO O´HIGGINS;Ingeniería Comercial;80,6%;75,3%;83,1%;s/i;s/i
+UNIVERSIDAD BERNARDO O´HIGGINS;Ingeniería en Informática;82,7%;58,7%;75,9%;89;s/i
+UNIVERSIDAD TECNOLOGICA DE CHILE INACAP;Ingeniería en Administración de Empresas;s/i;70,5%;77,8%;136;De $1 millón 300 mil a $1 millón 400 mil
+UNIVERSIDAD TECNOLOGICA DE CHILE INACAP;Ingeniería Comercial;s/i;78,9%;83,1%;s/i;De $1 millón 500 mil a $1 millón 600 mil
+UNIVERSIDAD TECNOLOGICA DE CHILE INACAP;Ingeniería en Automatización y Control Industrial;s/i;90,2%;94,1%;146;De $1 millón 800 mil a $1 millón 900 mil
+UNIVERSIDAD TECNOLOGICA DE CHILE INACAP;Ingeniería en Informática;s/i;77,5%;84,9%;131;De $1 millón 700 mil a $1 millón 800 mil
+UNIVERSIDAD TECNOLOGICA DE CHILE INACAP;Ingeniería en Ciberseguridad;s/i;74,2%;s/i;s/i;s/i
+UNIVERSIDAD TECNOLOGICA DE CHILE INACAP;Ingeniería en Construcción;s/i;71,1%;77,7%;135;De $1 millón 300 mil a $1 millón 400 mil
+UNIVERSIDAD TECNOLOGICA DE CHILE INACAP;Ingeniería en Electricidad;s/i;79,7%;87,1%;145;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD TECNOLOGICA DE CHILE INACAP;Ingeniería Electrónica;s/i;89,9%;88,0%;s/i;De $1 millón 400 mil a $1 millón 500 mil
+UNIVERSIDAD TECNOLOGICA DE CHILE INACAP;Ingeniería Industrial;s/i;76,4%;82,6%;127;De $1 millón 400 mil a $1 millón 500 mil
+UNIVERSIDAD ALBERTO HURTADO;Ingeniería Comercial;72,1%;84,6%;89,3%;122;De $1 millón 800 mil a $1 millón 900 mil
+UNIVERSIDAD DE CHILE;Ingeniería Agronómica;87,2%;73,9%;80,4%;172;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD DE CHILE;Ingeniería Civil Eléctrica;s/i;93,3%;97,7%;s/i;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD DE CHILE;Ingeniería Civil en Biotecnología;s/i;72,5%;86,7%;s/i;s/i
+UNIVERSIDAD DE CHILE;Ingeniería Civil en Computación;s/i;92,4%;96,5%;s/i;Desde $3 millones a $3 millones 500 mil
+UNIVERSIDAD DE CHILE;Ingeniería Civil de Minas;s/i;92,3%;98,2%;s/i;Sobre $3 millones 500 mil
+UNIVERSIDAD DE CHILE;Ingeniería Civil Industrial;s/i;95,1%;97,1%;s/i;Desde $3 millones a $3 millones 500 mil
+UNIVERSIDAD DE CHILE;Ingeniería Civil Matemática;s/i;71,7%;82,1%;s/i;s/i
+UNIVERSIDAD DE CHILE;Ingeniería Civil Mecánica;s/i;91,9%;94,1%;s/i;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD DE CHILE;Ingeniería Civil Química;s/i;81,2%;93,4%;s/i;De $2 millones 100 mil a $2 millones 200 mil
+UNIVERSIDAD DE CHILE;Ingeniería Civil;93,2%;93,4%;95,5%;s/i;De $2 millones 300 mil a $2 millones 400 mil
+UNIVERSIDAD DE CHILE;Ingeniería Comercial;94,8%;92,2%;94,6%;120;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD DE CHILE;Ingeniería en Biotecnología Molecular;93,5%;61,1%;62,7%;143;s/i
+UNIVERSIDAD DE CHILE;Ingeniería en Información y Control de Gestión;88,8%;97,1%;95,3%;121;De $2 millones 400 mil a $2 millones 500 mil
+UNIVERSIDAD DE CHILE;Ingeniería en Recursos Naturales Renovables;93,5%;88,8%;91,8%;169;De $1 millón 700 mil a $1 millón 800 mil
+UNIVERSIDAD DE CHILE;Ingeniería Forestal;72,7%;90,1%;92,6%;132;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería en Agronegocios;s/i;65,7%;73,1%;s/i;De $1 millón 300 mil a $1 millón 400 mil
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería Civil en Electricidad;73,8%;96,3%;95,6%;165;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería Civil en Informática;88,5%;98,5%;96,5%;160;Desde $3 millones a $3 millones 500 mil
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería Civil en Minas;67,1%;91,9%;97,7%;166;Sobre $3 millones 500 mil
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería Civil en Obras Civiles;78,0%;85,9%;92,3%;155;De $2 millones a $2 millones 100 mil
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería Civil Industrial;85,4%;93,2%;97,3%;157;De $2 millones 400 mil a $2 millones 500 mil
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería Civil en Mecánica;79,5%;93,2%;98,2%;153;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería Civil en Metalurgia;60,9%;81,0%;93,8%;s/i;Desde $3 millones a $3 millones 500 mil
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería Civil en Química;73,9%;89,8%;94,7%;149;De $2 millones a $2 millones 100 mil
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería Comercial;87,5%;88,2%;90,5%;116;De $1 millón 900 mil a $2 millones
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería en Alimentos;s/i;86,0%;79,7%;s/i;s/i
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería en Biotecnología;s/i;69,0%;90,5%;134;s/i
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería de Ejecución en Computación e Informática;86,9%;93,6%;98,9%;s/i;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería de Ejecución en Electricidad;59,4%;92,3%;96,0%;128;De $2 millones 100 mil a $2 millones 200 mil
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería de Ejecución en Geomensura;s/i;96,2%;92,5%;s/i;s/i
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería en Estadística e Ingeniería en Matemática;80,8%;89,3%;94,2%;149;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería Ambiental;s/i;82,3%;85,7%;146;De $1 millón 500 mil a $1 millón 600 mil
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería de Ejecución en Metalurgia;41,4%;72,2%;88,2%;s/i;De $1 millón 800 mil a $1 millón 900 mil
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería de Ejecución en Minas;43,9%;73,8%;84,9%;142;De $2 millones 300 mil a $2 millones 400 mil
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería de Ejecución en Química;s/i;80,4%;90,0%;138;De $1 millón 500 mil a $1 millón 600 mil
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería de Ejecución Industrial;66,7%;86,5%;88,8%;115;De $1 millón 800 mil a $1 millón 900 mil
+UNIVERSIDAD DE SANTIAGO DE CHILE;Ingeniería de Ejecución en Mecánica;52,3%;82,6%;89,5%;130;De $1 millón 800 mil a $1 millón 900 mil
+UNIVERSIDAD DE VALPARAISO;Ingeniería Civil Biomédica;80,0%;96,6%;91,7%;140;De $1 millón 800 mil a $1 millón 900 mil
+UNIVERSIDAD DE VALPARAISO;Ingeniería Civil en Informática;77,4%;88,6%;s/i;167;s/i
+UNIVERSIDAD DE VALPARAISO;Ingeniería Civil Industrial;80,8%;85,2%;93,2%;156;De $2 millones 100 mil a $2 millones 200 mil
+UNIVERSIDAD DE VALPARAISO;Ingeniería Comercial;72,1%;74,1%;82,0%;125;De $1 millón 700 mil a $1 millón 800 mil
+UNIVERSIDAD DE VALPARAISO;Ingeniería en Negocios Internacionales;78,9%;80,1%;81,9%;131;s/i
+UNIVERSIDAD DE VALPARAISO;Ingeniería en Construcción;81,5%;76,0%;88,2%;157;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD DE VALPARAISO;Ingeniería Ambiental;55,6%;74,6%;97,7%;s/i;s/i
+UNIVERSIDAD DE ANTOFAGASTA;Ingeniería Civil en Minas y en Procesos Minerales;78,0%;82,9%;s/i;s/i;s/i
+UNIVERSIDAD DE ANTOFAGASTA;Ingeniería Civil Industrial;71,4%;91,9%;96,1%;168;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD DE ANTOFAGASTA;Ingeniería Comercial;88,2%;83,2%;94,0%;178;De $1 millón 900 mil a $2 millones
+UNIVERSIDAD DE LA SERENA;Ingeniería en Administración de Empresas;81,6%;55,9%;67,1%;104;s/i
+UNIVERSIDAD DE LA SERENA;Ingeniería Civil de Minas;81,4%;91,2%;91,8%;159;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD DE LA SERENA;Ingeniería Civil Industrial;82,4%;79,7%;94,3%;161;De $1 millón 900 mil a $2 millones
+UNIVERSIDAD DE LA SERENA;Ingeniería Civil Mecánica;72,4%;75,8%;83,9%;175;s/i
+UNIVERSIDAD DE LA SERENA;Ingeniería Civil;77,8%;89,9%;92,5%;167;s/i
+UNIVERSIDAD DE LA SERENA;Ingeniería Comercial;95,1%;49,3%;69,1%;117;De $1 millón 200 mil a $1 millón 300 mil
+UNIVERSIDAD DE LA SERENA;Ingeniería en Construcción;88,9%;80,8%;s/i;155;s/i
+UNIVERSIDAD DE LA SERENA;Ingeniería de Ejecución en Minas;73,0%;80,0%;81,1%;138;De $2 millones a $2 millones 100 mil
+UNIVERSIDAD DE LA SERENA;Ingeniería Mecánica y de Ejecución Mecánica;61,5%;81,7%;s/i;145;s/i
+UNIVERSIDAD DEL BIO-BIO;Ingeniería de Ejecución en Administración de Empresas;s/i;85,4%;78,0%;s/i;De $1 millón 200 mil a $1 millón 300 mil
+UNIVERSIDAD DEL BIO-BIO;Ingeniería Civil Eléctrica;81,8%;87,0%;96,2%;138;De $2 millones 100 mil a $2 millones 200 mil
+UNIVERSIDAD DEL BIO-BIO;Ingeniería Civil en Informática;89,2%;87,2%;91,4%;130;De $2 millones 200 mil a $2 millones 300 mil
+UNIVERSIDAD DEL BIO-BIO;Ingeniería Civil Industrial;92,4%;74,3%;88,4%;139;De $1 millón 800 mil a $1 millón 900 mil
+UNIVERSIDAD DEL BIO-BIO;Ingeniería Civil Mecánica;77,3%;80,3%;90,6%;161;De $2 millones 100 mil a $2 millones 200 mil
+UNIVERSIDAD DEL BIO-BIO;Ingeniería Civil Química;67,4%;71,3%;85,3%;145;s/i
+UNIVERSIDAD DEL BIO-BIO;Ingeniería Civil;78,0%;79,1%;87,9%;141;De $1 millón 700 mil a $1 millón 800 mil
+UNIVERSIDAD DEL BIO-BIO;Ingeniería Comercial;86,9%;69,2%;77,5%;121;De $1 millón 400 mil a $1 millón 500 mil
+UNIVERSIDAD DEL BIO-BIO;Ingeniería en Alimentos;63,9%;64,0%;74,4%;s/i;s/i
+UNIVERSIDAD DEL BIO-BIO;Ingeniería de Ejecución en Computación e Informática;80,3%;83,2%;88,2%;123;De $1 millón 800 mil a $1 millón 900 mil
+UNIVERSIDAD DEL BIO-BIO;Ingeniería en Construcción;88,5%;83,8%;84,9%;161;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD DEL BIO-BIO;Ingeniería de Ejecución en Electricidad;86,4%;86,7%;93,2%;122;De $1 millón 900 mil a $2 millones
+UNIVERSIDAD DEL BIO-BIO;Ingeniería de Ejecución en Electrónica;s/i;63,3%;80,7%;s/i;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD DEL BIO-BIO;Ingeniería de Ejecución en Mecánica;s/i;73,8%;75,3%;139;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD DE LA FRONTERA;Ingeniería Civil Eléctrica;84,6%;87,3%;s/i;s/i;s/i
+UNIVERSIDAD DE LA FRONTERA;Ingeniería Civil Informática;84,9%;96,2%;s/i;s/i;s/i
+UNIVERSIDAD DE LA FRONTERA;Ingeniería Civil Industrial;90,2%;78,4%;88,1%;139;De $1 millón 800 mil a $1 millón 900 mil
+UNIVERSIDAD DE LA FRONTERA;Ingeniería Civil Mecánica;61,7%;86,4%;89,3%;150;s/i
+UNIVERSIDAD DE LA FRONTERA;Ingeniería Civil;88,4%;79,3%;89,1%;s/i;s/i
+UNIVERSIDAD DE LA FRONTERA;Ingeniería Comercial;82,1%;69,2%;78,3%;116;De $1 millón 400 mil a $1 millón 500 mil
+UNIVERSIDAD DE LA FRONTERA;Ingeniería en Construcción;79,3%;71,3%;87,5%;121;De $1 millón 300 mil a $1 millón 400 mil
+UNIVERSIDAD DE LA FRONTERA;Ingeniería en Recursos Naturales;80,6%;59,0%;69,7%;s/i;s/i
+UNIVERSIDAD DE TALCA;Auditoría e Ingeniería en Control de Gestión, y Contador Público y Auditor;92,8%;88,3%;94,9%;121;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD DE TALCA;Ingeniería Civil en Computación;86,6%;98,2%;97,8%;s/i;s/i
+UNIVERSIDAD DE TALCA;Ingeniería Civil en Minas;82,8%;64,9%;77,5%;s/i;s/i
+UNIVERSIDAD DE TALCA;Ingeniería Civil Industrial;86,0%;84,8%;93,1%;136;De $2 millones a $2 millones 100 mil
+UNIVERSIDAD DE TALCA;Ingeniería Civil Mecánica;80,5%;76,1%;90,6%;140;s/i
+UNIVERSIDAD DE TALCA;Ingeniería Comercial;83,5%;77,5%;84,9%;121;De $1 millón 700 mil a $1 millón 800 mil
+UNIVERSIDAD DE TALCA;Ingeniería en Informática Empresarial;78,5%;73,8%;82,2%;136;De $1 millón 500 mil a $1 millón 600 mil
+UNIVERSIDAD DE ATACAMA;Ingeniería de Ejecución en Administración de Empresas;s/i;73,5%;s/i;103;s/i
+UNIVERSIDAD DE ATACAMA;Ingeniería Civil en Minas;73,2%;88,3%;96,4%;193;Sobre $3 millones 500 mil
+UNIVERSIDAD DE ATACAMA;Ingeniería Civil Industrial;87,1%;87,6%;90,1%;204;De $1 millón 900 mil a $2 millones
+UNIVERSIDAD DE ATACAMA;Ingeniería Civil en Metalurgia;64,4%;84,2%;88,0%;s/i;s/i
+UNIVERSIDAD DE ATACAMA;Ingeniería Comercial;59,3%;85,7%;83,9%;150;s/i
+UNIVERSIDAD DE ATACAMA;Ingeniería de Ejecución en Minas;s/i;80,3%;s/i;108;s/i
+UNIVERSIDAD DE TARAPACA;Ingeniería Civil Eléctrica;80,3%;93,3%;97,4%;s/i;s/i
+UNIVERSIDAD DE TARAPACA;Ingeniería Civil en Computación e Informática;76,6%;81,0%;87,5%;137;s/i
+UNIVERSIDAD DE TARAPACA;Ingeniería Civil Industrial;80,4%;79,7%;84,2%;150;De $1 millón 800 mil a $1 millón 900 mil
+UNIVERSIDAD DE TARAPACA;Ingeniería Civil Mecánica;50,9%;83,3%;84,6%;s/i;De $2 millones 200 mil a $2 millones 300 mil
+UNIVERSIDAD DE TARAPACA;Ingeniería Comercial;89,9%;62,9%;78,4%;129;De $1 millón 400 mil a $1 millón 500 mil
+UNIVERSIDAD DE TARAPACA;Ingeniería en Información y Control de Gestión;82,4%;64,6%;68,6%;s/i;s/i
+UNIVERSIDAD ARTURO PRAT;Ingeniería de Ejecución en Administración de Empresas;s/i;78,0%;84,9%;s/i;De $1 millón 500 mil a $1 millón 600 mil
+UNIVERSIDAD ARTURO PRAT;Ingeniería Civil de Minas;81,4%;73,2%;s/i;s/i;s/i
+UNIVERSIDAD ARTURO PRAT;Ingeniería Civil Industrial;84,0%;77,4%;92,4%;131;De $2 millones 300 mil a $2 millones 400 mil
+UNIVERSIDAD ARTURO PRAT;Ingeniería Comercial;65,0%;79,7%;88,0%;133;De $1 millón 900 mil a $2 millones
+UNIVERSIDAD ARTURO PRAT;Ingeniería de Ejecución en Control de Gestión;79,4%;81,6%;87,9%;s/i;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD ARTURO PRAT;Ingeniería en Administración Logística;s/i;96,7%;92,2%;s/i;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD ARTURO PRAT;Ingeniería de Ejecución en Prevención de Riesgos;s/i;82,5%;90,9%;s/i;De $1 millón 500 mil a $1 millón 600 mil
+UNIVERSIDAD ARTURO PRAT;Ingeniería de Ejecución Industrial;s/i;91,1%;s/i;s/i;s/i
+UNIVERSIDAD DE PLAYA ANCHA DE CIENCIAS DE LA EDUCACION;Ingeniería Civil Industrial;s/i;78,6%;84,1%;s/i;s/i
+UNIVERSIDAD DE PLAYA ANCHA DE CIENCIAS DE LA EDUCACION;Ingeniería en Informática;69,4%;79,5%;s/i;s/i;s/i
+UNIVERSIDAD DE LOS LAGOS;Ingeniería en Administración de Empresas;s/i;79,2%;76,4%;s/i;De $1 millón 400 mil a $1 millón 500 mil
+UNIVERSIDAD DE LOS LAGOS;Ingeniería de Ejecución en Alimentos;s/i;56,4%;68,9%;s/i;s/i
+UNIVERSIDAD TECNOLOGICA METROPOLITANA;Ingeniería en Gestión Turística;78,1%;64,2%;s/i;124;s/i
+UNIVERSIDAD TECNOLOGICA METROPOLITANA;Ingeniería en Administración Agroindustrial;s/i;60,0%;73,4%;s/i;s/i
+UNIVERSIDAD TECNOLOGICA METROPOLITANA;Ingeniería Civil en Computación mención Informática;83,6%;90,0%;98,0%;144;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD TECNOLOGICA METROPOLITANA;Ingeniería Civil en Obras Civiles;82,9%;74,3%;90,6%;161;De $1 millón 700 mil a $1 millón 800 mil
+UNIVERSIDAD TECNOLOGICA METROPOLITANA;Ingeniería Civil Industrial;89,1%;85,7%;92,6%;146;De $2 millones a $2 millones 100 mil
+UNIVERSIDAD TECNOLOGICA METROPOLITANA;Ingeniería Comercial;83,3%;78,4%;87,9%;117;De $1 millón 700 mil a $1 millón 800 mil
+UNIVERSIDAD TECNOLOGICA METROPOLITANA;Ingeniería en Biotecnología;81,7%;71,2%;61,9%;s/i;s/i
+UNIVERSIDAD TECNOLOGICA METROPOLITANA;Ingeniería en Comercio Internacional;82,6%;86,0%;91,8%;136;De $1 millón 500 mil a $1 millón 600 mil
+UNIVERSIDAD TECNOLOGICA METROPOLITANA;Ingeniería en Informática;90,1%;87,1%;96,5%;129;De $2 millones 200 mil a $2 millones 300 mil
+UNIVERSIDAD TECNOLOGICA METROPOLITANA;Ingeniería en Construcción;89,2%;76,7%;80,4%;127;De $1 millón 400 mil a $1 millón 500 mil
+UNIVERSIDAD TECNOLOGICA METROPOLITANA;Ingeniería en Geomensura, Cartografía y Geomática;s/i;84,4%;88,0%;156;De $1 millón 700 mil a $1 millón 800 mil
+UNIVERSIDAD TECNOLOGICA METROPOLITANA;Ingeniería en Química;64,0%;85,0%;94,0%;s/i;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD TECNOLOGICA METROPOLITANA;Ingeniería Industrial;s/i;81,6%;85,1%;s/i;De $1 millón 700 mil a $1 millón 800 mil
+PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE;Ingeniería Civil Electricista;s/i;92,7%;90,7%;151;s/i
+PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE;Ingeniería Civil en Biotecnología;s/i;82,2%;s/i;s/i;s/i
+PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE;Ingeniería Civil de Computación;s/i;94,9%;91,2%;147;s/i
+PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE;Ingeniería Civil, Diplomas en Diseño y Construcción de Obras e Ingeniería y Gestión de la Construcción;s/i;97,1%;95,1%;158;De $2 millones 400 mil a $2 millones 500 mil
+PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE;Ingeniería Civil de Industrias;s/i;95,7%;96,5%;148;Desde $3 millones a $3 millones 500 mil
+PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE;Ingeniería Civil Mecánico;s/i;91,9%;95,5%;161;Desde $2 millones 500 mil a $3 millones
+PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE;Ingeniería Comercial;95,3%;93,1%;96,1%;123;Desde $2 millones 500 mil a $3 millones
+PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE;Ingeniería Forestal;s/i;74,4%;79,7%;124;s/i
+UNIVERSIDAD DE CONCEPCION;Ingeniería Civil Eléctrica;83,1%;91,3%;92,6%;144;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD DE CONCEPCION;Ingeniería Civil Electrónica;85,7%;87,0%;88,6%;167;De $2 millones 400 mil a $2 millones 500 mil
+UNIVERSIDAD DE CONCEPCION;Ingeniería Civil Biomédica;88,2%;91,6%;89,5%;138;De $1 millón 800 mil a $1 millón 900 mil
+UNIVERSIDAD DE CONCEPCION;Ingeniería Civil Informática;82,0%;88,4%;95,1%;140;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD DE CONCEPCION;Ingeniería Civil de Minas;85,3%;83,8%;93,8%;152;s/i
+UNIVERSIDAD DE CONCEPCION;Ingeniería Civil Industrial;93,8%;85,1%;96,5%;134;De $2 millones 200 mil a $2 millones 300 mil
+UNIVERSIDAD DE CONCEPCION;Ingeniería Civil Mecánica;90,7%;83,8%;94,1%;150;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD DE CONCEPCION;Ingeniería Civil Metalúrgica;70,9%;77,1%;91,8%;163;Desde $3 millones a $3 millones 500 mil
+UNIVERSIDAD DE CONCEPCION;Ingeniería Civil Química;89,6%;84,7%;92,5%;144;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD DE CONCEPCION;Ingeniería Civil;68,6%;84,4%;90,2%;143;De $2 millones 100 mil a $2 millones 200 mil
+UNIVERSIDAD DE CONCEPCION;Ingeniería Comercial;76,6%;72,1%;80,8%;120;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD DE CONCEPCION;Bioingeniería e Ingeniería en Biotecnología;82,4%;55,4%;70,9%;153;De $1 millón 100 mil a $1 millón 200 mil
+UNIVERSIDAD DE CONCEPCION;Ingeniería Geomática;s/i;84,6%;87,2%;s/i;s/i
+UNIVERSIDAD DE CONCEPCION;Ingeniería Ambiental;73,6%;71,4%;82,3%;146;De $1 millón 500 mil a $1 millón 600 mil
+UNIVERSIDAD DE CONCEPCION;Ingeniería en Conservación de Recursos Naturales;86,7%;61,5%;75,0%;141;s/i
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería Civil Ambiental;82,9%;88,4%;88,4%;s/i;s/i
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería Civil Eléctrica;92,5%;89,7%;92,2%;185;s/i
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería Civil Electrónica;87,5%;89,8%;92,8%;166;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería Civil Informática;89,2%;93,7%;95,4%;150;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería Civil de Minas;91,7%;87,2%;91,5%;152;s/i
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería Civil Telemática;76,9%;98,1%;s/i;162;s/i
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería Civil Industrial;92,9%;92,5%;96,7%;147;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería Civil Matemática;92,9%;86,4%;s/i;152;s/i
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería Civil Mecánica;89,3%;91,9%;94,0%;169;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería Civil Metalurgia;82,8%;86,2%;96,4%;205;Sobre $3 millones 500 mil
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería Civil Química;87,2%;87,1%;95,4%;168;Desde $2 millones 500 mil a $3 millones
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería Civil;89,9%;94,4%;96,1%;175;De $2 millones 400 mil a $2 millones 500 mil
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería Comercial;83,2%;85,1%;92,2%;128;De $2 millones 100 mil a $2 millones 200 mil
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería de Ejecución en Control e Instrumentación Industrial;s/i;91,0%;92,0%;s/i;De $2 millones 100 mil a $2 millones 200 mil
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería en Informática, en Sistemas Computacionales y Software;72,6%;94,1%;96,4%;110;De $2 millones 400 mil a $2 millones 500 mil
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería en Construcción;s/i;79,7%;80,2%;s/i;De $1 millón 500 mil a $1 millón 600 mil
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería en Prevención de Riesgos Laborales y Ambientales;72,7%;78,9%;80,7%;s/i;De $1 millón 300 mil a $1 millón 400 mil
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería de Ejecución en Gestión Industrial, en Mantenimiento Industrial, y en Fabricación y Diseño Industrial;82,4%;85,6%;88,5%;113;De $1 millón 800 mil a $1 millón 900 mil
+UNIVERSIDAD TECNICA FEDERICO SANTA MARIA;Ingeniería de Ejecución Mecánica de Procesos y Mantenimiento Industrial e Ingeniería Mecánica Industrial;s/i;82,4%;86,4%;182;De $1 millón 700 mil a $1 millón 800 mil
+PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO;Ingeniería Civil Bioquímica;92,1%;82,1%;82,0%;145;De $1 millón 400 mil a $1 millón 500 mil
+PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO;Ingeniería Civil Eléctrica;86,1%;95,8%;97,3%;149;Desde $2 millones 500 mil a $3 millones
+PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO;Ingeniería Civil Electrónica;82,9%;77,0%;95,2%;152;De $2 millones a $2 millones 100 mil
+PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO;Ingeniería Civil en Informática;91,2%;81,8%;93,5%;132;De $2 millones 300 mil a $2 millones 400 mil
+PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO;Ingeniería Civil de Minas;85,7%;72,6%;88,1%;144;Desde $2 millones 500 mil a $3 millones
+PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO;Ingeniería Civil Industrial;90,8%;93,8%;95,8%;144;De $2 millones 200 mil a $2 millones 300 mil
+PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO;Ingeniería Civil Mecánica;79,7%;78,2%;s/i;181;s/i
+PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO;Ingeniería Civil Metalurgia Extractiva;87,5%;79,8%;92,2%;157;Desde $3 millones a $3 millones 500 mil
+PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO;Ingeniería Civil Química;83,6%;73,8%;86,7%;143;De $2 millones 100 mil a $2 millones 200 mil
+PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO;Ingeniería Civil;86,1%;84,2%;90,3%;139;De $1 millón 900 mil a $2 millones
+PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO;Ingeniería Comercial;85,7%;83,9%;87,9%;147;De $1 millón 900 mil a $2 millones
+PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO;Ingeniería en Bioprocesos;s/i;72,1%;s/i;s/i;s/i
+PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO;Ingeniería de Ejecución en Informática;80,2%;77,4%;93,6%;106;De $2 millones a $2 millones 100 mil
+PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO;Ingeniería en Construcción;70,6%;80,6%;85,8%;140;De $1 millón 600 mil a $1 millón 700 mil
+PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO;Ingeniería Eléctrica;65,5%;92,0%;91,9%;s/i;De $2 millones 100 mil a $2 millones 200 mil
+PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO;Ingeniería en Transporte y Tránsito;s/i;87,8%;s/i;s/i;s/i
+PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO;Ingeniería Mecánica;69,4%;81,5%;87,3%;154;s/i
+UNIVERSIDAD AUSTRAL DE CHILE;Ingeniería Civil en Informática;76,5%;76,8%;s/i;s/i;s/i
+UNIVERSIDAD AUSTRAL DE CHILE;Ingeniería Civil en Obras Civiles;80,0%;78,8%;93,4%;154;De $1 millón 700 mil a $1 millón 800 mil
+UNIVERSIDAD AUSTRAL DE CHILE;Ingeniería Civil Industrial;85,5%;79,5%;89,9%;143;De $1 millón 700 mil a $1 millón 800 mil
+UNIVERSIDAD AUSTRAL DE CHILE;Ingeniería Civil Mecánica;87,5%;71,4%;87,0%;168;s/i
+UNIVERSIDAD AUSTRAL DE CHILE;Ingeniería Comercial;88,5%;73,0%;83,8%;125;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD AUSTRAL DE CHILE;Ingeniería en Construcción;73,2%;72,9%;87,3%;155;De $1 millón 500 mil a $1 millón 600 mil
+UNIVERSIDAD AUSTRAL DE CHILE;Ingeniería en Información y Control de Gestión;90,2%;86,5%;93,5%;s/i;s/i
+UNIVERSIDAD AUSTRAL DE CHILE;Ingeniería en Conservación de Recursos Naturales;74,4%;59,1%;75,3%;134;De $1 millón 200 mil a $1 millón 300 mil
+UNIVERSIDAD AUSTRAL DE CHILE;Ingeniería Naval;83,0%;87,5%;s/i;s/i;s/i
+UNIVERSIDAD CATOLICA DEL NORTE;Ingeniería Civil Ambiental;s/i;88,9%;s/i;s/i;s/i
+UNIVERSIDAD CATOLICA DEL NORTE;Ingeniería Civil en Computación e Informática;82,5%;86,5%;93,1%;133;De $2 millones 400 mil a $2 millones 500 mil
+UNIVERSIDAD CATOLICA DEL NORTE;Ingeniería Civil de Minas;84,3%;80,5%;93,5%;s/i;Desde $3 millones a $3 millones 500 mil
+UNIVERSIDAD CATOLICA DEL NORTE;Ingeniería Civil Industrial;91,7%;85,2%;92,9%;121;De $2 millones 300 mil a $2 millones 400 mil
+UNIVERSIDAD CATOLICA DEL NORTE;Ingeniería Civil Metalúrgica;82,0%;82,4%;94,6%;143;Sobre $3 millones 500 mil
+UNIVERSIDAD CATOLICA DEL NORTE;Ingeniería Civil;70,0%;93,8%;94,6%;s/i;De $2 millones 400 mil a $2 millones 500 mil
+UNIVERSIDAD CATOLICA DEL NORTE;Ingeniería Comercial;86,5%;79,5%;86,2%;116;De $1 millón 700 mil a $1 millón 800 mil
+UNIVERSIDAD CATOLICA DEL NORTE;Ingeniería en Computación e Informática;86,8%;86,0%;s/i;106;s/i
+UNIVERSIDAD CATOLICA DEL NORTE;Ingeniería en Construcción;s/i;90,7%;91,1%;122;De $1 millón 800 mil a $1 millón 900 mil
+UNIVERSIDAD CATOLICA DEL NORTE;Ingeniería en Información y Control de Gestión;84,1%;78,6%;83,7%;112;De $1 millón 600 mil a $1 millón 700 mil
+UNIVERSIDAD CATOLICA DEL NORTE;Ingeniería en Prevención de Riesgos y Medio Ambiente;82,1%;69,8%;80,6%;125;De $1 millón 400 mil a $1 millón 500 mil
+UNIVERSIDAD CATOLICA DEL MAULE;Ingeniería Civil Informática;84,0%;85,0%;s/i;147;s/i
+UNIVERSIDAD CATOLICA DEL MAULE;Ingeniería Civil Industrial;92,5%;72,0%;92,7%;135;s/i
+UNIVERSIDAD CATOLICA DEL MAULE;Ingeniería Comercial;86,5%;62,9%;67,3%;125;De $1 millón 300 mil a $1 millón 400 mil
+UNIVERSIDAD CATOLICA DEL MAULE;Ingeniería en Biotecnología;78,4%;66,3%;s/i;140;s/i
+UNIVERSIDAD CATOLICA DEL MAULE;Ingeniería en Construcción;80,0%;78,5%;84,6%;130;De $1 millón 500 mil a $1 millón 600 mil
+UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION;Ingeniería de Ejecución en Administración de Empresas;66,7%;65,8%;71,2%;s/i;De $1 millón 100 mil a $1 millón 200 mil
+UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION;Ingeniería Civil Informática;85,6%;87,8%;96,2%;s/i;s/i
+UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION;Ingeniería Civil Industrial;90,3%;84,5%;91,7%;150;De $1 millón 800 mil a $1 millón 900 mil
+UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION;Ingeniería Civil;75,5%;73,3%;85,8%;170;De $1 millón 800 mil a $1 millón 900 mil
+UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION;Ingeniería Comercial;93,2%;72,0%;81,1%;123;De $1 millón 400 mil a $1 millón 500 mil
+UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION;Ingeniería de Ejecución Industrial;s/i;74,4%;77,3%;s/i;De $1 millón 300 mil a $1 millón 400 mil
+UNIVERSIDAD CATOLICA DE TEMUCO;Ingeniería Civil en Obras Civiles;77,4%;80,7%;86,2%;154;s/i
+UNIVERSIDAD CATOLICA DE TEMUCO;Ingeniería Civil Industrial;89,0%;80,5%;86,1%;184;s/i
+UNIVERSIDAD CATOLICA DE TEMUCO;Ingeniería Comercial;84,4%;57,0%;74,1%;156;De $1 millón 300 mil a $1 millón 400 mil
