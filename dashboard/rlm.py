@@ -193,11 +193,12 @@ def entrenar_regresion_ingresos(df_data):
         'Feature': columnas_disponibles,
         'Coeficiente': np.abs(modelo.coef_)
     }).sort_values('Coeficiente', ascending=True)
-    
-    fig_imp = px.barh(
+
+    fig_imp = px.bar(  # <--- Cambiado de px.barh a px.bar
         feature_importance,
         x='Coeficiente',
         y='Feature',
+        orientation='h',  # <--- Obligatorio para que las barras sean horizontales
         color='Coeficiente',
         color_continuous_scale='Viridis',
         title='Importancia de Features (Valor Absoluto de Coeficientes)',
