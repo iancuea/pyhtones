@@ -158,7 +158,7 @@ def clustering_carreras(df_data):
         color_discrete_sequence=px.colors.qualitative.Set2
     )
     fig_2d.update_traces(marker=dict(size=10, opacity=0.8))
-    fig_2d.update_layout(height=380, width=590, paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(240,240,240,0.5)')
+    fig_2d.update_layout(height=520, width=920, paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(240,240,240,0.5)')
     
     # === 7. REDUCCIÓN A 3D CON PCA ===
     pca_3d = PCA(n_components=3)
@@ -181,7 +181,7 @@ def clustering_carreras(df_data):
         color_discrete_map=color_map
     )
     fig_3d.update_traces(marker=dict(size=6, opacity=0.8))
-    fig_3d.update_layout(height=380, width=590, paper_bgcolor='rgba(0,0,0,0)')
+    fig_3d.update_layout(height=520, width=920, paper_bgcolor='rgba(0,0,0,0)')
     
     # === 8. TABLA DE RESUMEN POR CLUSTER ===
     tabla_clusters = df_clean.groupby('Cluster')[features_disponibles].agg(['mean', 'std']).round(2)
