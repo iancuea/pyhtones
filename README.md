@@ -8,8 +8,11 @@ Este proyecto es un entorno interactivo de software desarrollado en **Python** d
 
 * **Python 3.10** o superior.
 * **Git** (para clonar el repositorio).
-* **Instalar requirements.txt** (para clonar el repositorio).
-
+* **Instalar requirements.txt** en su **venv** con los siguentes comandos si está en windows:
+```
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+```
 ---
 
 ##  Instrucciones de Instalación y Ejecución
@@ -19,7 +22,7 @@ Este proyecto es un entorno interactivo de software desarrollado en **Python** d
 ### 3. Ingresar al dashboard con el usuario "admin" y contraseña "admin".
 
 
-# Project Structure
+# Estructura de carpeta dashboard
 
 ```
 dashboard/
