@@ -17,3 +17,24 @@ Este proyecto es un entorno interactivo de software desarrollado en **Python** d
 ### 1. Clonar el repositorio e ingresar a la carpeta.
 ### 2. En la carpeta de la ruta \pyhtones\dashboard ejecutar el archivo dashboard_final.ipynb, la primera ejecucion demora por la generación de mapas interactivos, luego ya es rápido.
 ### 3. Ingresar al dashboard con el usuario "admin" y contraseña "admin".
+
+
+# Project Structure
+
+```
+dashboard/
+├── csv_dashboard
+│   ├── BaseINDICES-2020-2025.csv
+│   ├── clean_kpis.csv
+│   └── todas_las_ingenierias_chile.csv
+├── html_mapas
+│   ├── mapa_emp.html
+│   ├── mapa_ret.html
+│   └── mapa_sue.html
+├── dashboard_final.ipynb
+├── dashboard_ml.ipynb
+├── kmeans.py
+├── pca.py
+├── preprocesamiento.py
+└── rlm.py
+```
