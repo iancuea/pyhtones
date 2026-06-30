@@ -17,9 +17,9 @@ python -m pip install -r requirements.txt
 
 ##  Instrucciones de Instalación y Ejecución
 
-### 1. Clonar el repositorio e ingresar a la carpeta.
-### 2. En la carpeta de la ruta \pyhtones\dashboard ejecutar el archivo dashboard_final.ipynb, la primera ejecucion demora por la generación de mapas interactivos, luego ya es rápido.
-### 3. Ingresar al dashboard con el usuario "admin" y contraseña "admin".
+* 1. Clonar el repositorio e ingresar a la carpeta.
+* 2. En la carpeta de la ruta \pyhtones\dashboard ejecutar el archivo dashboard_final.ipynb, la primera ejecucion demora por la generación de mapas interactivos, luego ya es rápido.
+* 3. Ingresar al dashboard con el usuario "admin" y contraseña "admin".
 
 
 # Estructura de carpeta dashboard
